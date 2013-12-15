@@ -1,5 +1,6 @@
 # Add your rules here #
 #######################
+composer.lock
 
 # Default GIT ignore rules #
 ############################

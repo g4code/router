@@ -1,10 +1,11 @@
 {
-    "name": "g4code/router",
-    "homepage": "http://g4code.com/router",
-    "description": "Aura/Router with small update for my needs",
+    "name": "g4/router",
+    "homepage": "http://g4fw.com/router",
+    "description": "Aura/Router with small update for our needs",
     "license": "MIT",
     "keywords": [
         "g4code",
+        "g4fw",
         "router"
     ],
     "authors": [
@@ -15,10 +16,10 @@
     ],
     "require": {
         "php": ">=5.4",
-        "aura/router": "2.*"
+        "aura/router": "1.1.*"
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {"Router\\": "src/"}
+        "psr-0": {"G4\\Router\\": "src/"}
     }
 }
