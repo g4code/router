@@ -40,4 +40,4 @@ class Route extends \Aura\Router\Route
         return parent::generate($data);
     }
 
-} // end of class
+}
