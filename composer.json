@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "aura/router": "1.1.*"
+        "aura/router": "1.2.*"
     },
     "minimum-stability": "dev",
     "autoload": {
